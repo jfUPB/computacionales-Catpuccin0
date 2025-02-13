@@ -77,3 +77,5 @@ El programa modificado realiza correctamente la suma de los valores 60 y 9, alma
 3. **Ciclo infinito:** El salto a la posición 0 genera un ciclo infinito, lo cual es una forma común de reiniciar un programa o mantenerlo en ejecución hasta que se detenga manualmente.
 
 ---
+
+#### Mirar los apuntes de lo que llegue a estudiar sobre la memoria
