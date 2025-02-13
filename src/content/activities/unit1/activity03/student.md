@@ -1,16 +1,10 @@
-Claro, a continuación te proporciono un análisis más detallado y técnico en un formato adecuado para tu bitácora de GitHub, con un lenguaje universitario, acorde a los componentes principales de la arquitectura Hack:
-
----
-
-## **Bitácora de Aprendizaje - Arquitectura del Computador Hack**
-
-### **1. Componentes Principales de la Arquitectura Hack**
+#### **1. Componentes Principales de la Arquitectura Hack**
 
 La arquitectura Hack, aunque simplificada, está diseñada con el objetivo de comprender los fundamentos de cómo interactúan los componentes básicos de un sistema computacional. A continuación se describen los componentes más importantes de esta arquitectura.
 
 ---
 
-### **2. CPU: Partes Principales**
+#### **2. CPU: Partes Principales**
 
 La **CPU (Unidad Central de Procesamiento)** de Hack es responsable de ejecutar las instrucciones del programa, y consta de varios elementos clave que facilitan su funcionamiento:
 
@@ -26,7 +20,7 @@ La **CPU (Unidad Central de Procesamiento)** de Hack es responsable de ejecutar 
 
 ---
 
-### **3. Memoria: Organización en Hack**
+#### **3. Memoria: Organización en Hack**
 
 La memoria en la arquitectura Hack se organiza en dos segmentos clave: **RAM** y **ROM**. A continuación se describen sus características y la importancia de su organización:
 
@@ -45,7 +39,7 @@ Este mapa de memoria es fundamental para entender cómo se organiza la informaci
 
 ---
 
-### **4. Registros A y D: Función y Diferencias**
+#### **4. Registros A y D: Función y Diferencias**
 
 Los registros **A** y **D** juegan roles complementarios dentro de la CPU de Hack, pero tienen funciones distintas:
 
@@ -60,7 +54,7 @@ La diferencia principal entre los registros A y D radica en su función: el **A*
 
 ---
 
-### **5. Contador de Programa (PC): Función en el Ciclo Fetch-Decode-Execute**
+#### **5. Contador de Programa (PC): Función en el Ciclo Fetch-Decode-Execute**
 
 El **Contador de Programa (PC)** tiene un papel central en el ciclo de ejecución de la CPU, también conocido como **Fetch-Decode-Execute**. Su función principal es mantener la dirección de la siguiente instrucción que debe ser ejecutada por la CPU.
 
@@ -74,7 +68,7 @@ El PC se incrementa automáticamente después de cada instrucción, a menos que 
 
 ---
 
-### **6. Diagrama de la Arquitectura Hack**
+#### **6. Diagrama de la Arquitectura Hack**
 
 Para ilustrar la interacción entre estos componentes, a continuación se proporciona una guía para crear un diagrama de la arquitectura Hack en herramientas como **draw.io**:
 
@@ -88,6 +82,3 @@ Para ilustrar la interacción entre estos componentes, a continuación se propor
 - **Ciclo Fetch-Decode-Execute:**
   - Representa el ciclo de ejecución de instrucciones, mostrando cómo el PC se incrementa y cómo se realiza el flujo de ejecución entre los componentes.
 
----
-
-Este análisis proporciona una visión integral de los componentes esenciales de la arquitectura Hack, fundamentales para entender cómo funcionan las computadoras a nivel de hardware. El conocimiento de estos elementos es crucial para la comprensión profunda de los sistemas computacionales y su programación.
